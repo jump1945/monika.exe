@@ -6,5 +6,5 @@
 
 ## what NOT to do
 
-1.complain about code being extremely inefficient
-2.complain about HSL to RGB function,it blasted the number off the roof
+1.complain about code being extremely inefficient.
+2.complain about HSL to RGB function,it blasted the number off the roof.
