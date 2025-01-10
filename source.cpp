@@ -7,7 +7,8 @@
 #include <vector>
 #include <cstdlib>
 void renderAndMove(float speed);
-
+//i know the code is terrible but i am too lazy to fix
+//so don't complain
 int getWindowWidth();
 int getWindowHeight();
 
